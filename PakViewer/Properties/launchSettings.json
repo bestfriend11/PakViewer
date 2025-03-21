@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PakViewer": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\aa\\MyProject4-551\\Content\\YourPakFile.pak\""
+    }
+  }
+}
